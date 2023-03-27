@@ -1,0 +1,122 @@
+
+body {
+    margin:0 auto;
+    width:1100px;
+}
+#top {
+    width: 1100px; height: 40px;
+}
+.top_picture {
+    line-height: 60px;
+    float:left;
+}
+.top_left {
+    font-weight: bold;
+    width: 80px; height: 60px;
+    text-align: center;
+    line-height: 60px;
+    font-size: 13px;
+    float:left;
+}
+.top_right {
+    font-weight: bold;
+    width: 100px; height: 40px;
+    text-align: center;           
+    font-size: 13px;
+    line-height: 40px;
+    float:right;
+}
+#top_under {
+    width: 1100px; height: 30px;
+    line-height: 70px;           
+}
+.new {
+    float:left;
+}
+.language {
+    float: right;
+    height: 20px;  
+    border-color: blue;
+    color:blue;                   
+}
+.button {
+    float: right;
+    height: 20px;
+    color:white;  
+    background-color: blue;
+}
+.logo {vertical-align: middle;}
+#menu {
+width: 1100px; height: 100px;        
+}
+.menu_img {
+width: 200px; height: 50px;
+        line-height: 70px;
+        text-align: center;
+        float:left;               
+}
+
+.serch {
+width: 400px; height: 38px;
+padding: 0 10px;
+border-color: skyblue;          
+}
+.sun {
+width: 300px; height: 50px;
+line-height: 70px;
+text-align: center;
+float: right;        
+}
+#main {
+width:1100px; height: 350px;
+position: relative;
+}
+.main_1 {
+        position: absolute;
+        background-color: rgb(77, 90, 233);
+        width:65px; height:175px;
+        text-align: center;
+        color: white;
+        line-height: 50px;               
+        font-weight: bold;
+        top:0px;
+        
+    }
+    .main_2 {
+        position: absolute;
+        background-color: rgb(195, 216, 225);
+        width:65px; height:175px;
+        text-align: center;
+        color: black;
+        line-height: 50px;
+        font-weight: bold;
+        top:175px;               
+    }
+    .main_3 {
+        position: absolute;
+        background-color: rgb(66, 65, 65);
+        width:620px; height: 40px;
+        color: white;
+        line-height: 40px;
+        bottom: 0px; left:70px;
+    }
+    .icon1 {
+        line-height: 20px;
+    }
+    .main2 {
+        float: right;
+    }
+    #service {
+        width: 1100px;
+    }
+    .nuri {
+        float:right;
+    }
+    .icons {
+        width: 1100px;
+
+    }
+    .icon_under {
+        float: left;
+    }
+ 
